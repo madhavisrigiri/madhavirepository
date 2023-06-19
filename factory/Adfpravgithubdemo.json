@@ -1,0 +1,9 @@
+{
+	"name": "Adfpravgithubdemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3f92596c-ddd6-4842-9585-e514329026f2",
+		"tenantId": "c511ce92-737d-4290-8ddc-e8f5210a70e7"
+	}
+}
